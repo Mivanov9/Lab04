@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SciCalculator {// Michael Ivanov, lab partner: Kyle Helstrom
-    private static double firstOperand;
+    private static double firstOperand;// Git test push
     private static double secondOperand;
     private static double calcResult = 0.0;
     private static double totalNumbers = 0.0;
